@@ -24,4 +24,4 @@ exam paper.
 |---|---|
 | `data/` | ASR queries, confirmed attacks, FPR queries (JSON) |
 | `notebooks/` | Full evaluation pipeline, DMB.py |
-| `figures/` | Bundle classifier flowchart |
+
