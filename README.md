@@ -1,8 +1,8 @@
 # dmb-qualifying_exam-2026
-Distributed Memory Backdoor (DMB): Distributing Adversarial Triggers Acrid Benign Entries in shared RAG deployments
+Distributed Memory Backdoor (DMB): Distributing Adversarial Triggers Across Benign Entries in shared RAG deployments
 
 # Distributed Memory Backdoor (DMB)
-**Sharmin Milu | Advisor: Dr. Hossain | PhD Qualifying Exam 2026**
+**Sharmin Akter Milu | Advisor: Dr. Mohammad Arif Hossain | PhD Qualifying Exam 2026**
 
 ---
 
@@ -11,8 +11,7 @@ Distributed Memory Backdoor (DMB): Distributing Adversarial Triggers Acrid Benig
 DMB proposes a distributed-trigger backdoor attack on shared
 RAG deployments, operating through a standard user account
 with no model access. The trigger is distributed across
-ℓ ≥ 2 individually innocent memory entries such that no
-single-entry safety classifier can detect any component.
+ℓ ≥ 2 individually innocent memory entries such that harm only emerges if they are combined together in AI agent's generation phase .
 
 Full details are provided in the accompanying qualifying
 exam paper.
