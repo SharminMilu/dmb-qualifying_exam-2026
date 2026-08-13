@@ -11,7 +11,8 @@ Distributed Memory Backdoor (DMB): Distributing Adversarial Triggers Across Beni
 DMB proposes a distributed-trigger backdoor attack on shared
 RAG deployments, operating through a standard user account
 with no model access. The trigger is distributed across
-ℓ ≥ 2 individually innocent memory entries such that harm only emerges if they are combined together in AI agent's generation phase .
+ℓ ≥ 2 individually innocent memory entries such that harm only emerges 
+if they are combined together in AI agent's generation phase .
 
 Full details are provided in the accompanying qualifying
 exam paper.
