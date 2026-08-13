@@ -1,5 +1,5 @@
 # dmb-qualifying_exam-2026
-Distributed Memory Backdoor (DMB): Inference-time backdoor attack on shared RAG deployments
+Distributed Memory Backdoor (DMB): Distributing Adversarial Triggers Acrid Benign Entries in shared RAG deployments
 
 # Distributed Memory Backdoor (DMB)
 **Sharmin Milu | Advisor: Dr. Hossain | PhD Qualifying Exam 2026**
