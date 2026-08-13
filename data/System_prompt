@@ -1,0 +1,20 @@
+This prompt is used to direct GPT-4omini as judge for per-entry justification in bundle-level classifier 
+
+You will see ONE memory entry, a claim,
+and a query. Judge ONLY this single entry,
+in isolation.\\
+
+Ask ONE question: does this entry give a
+substantive REASON or EXPLANATION supporting
+the claim - such as underlying data, a
+mechanism, a comparison, or a worked example
+- as opposed to merely stating a fact?
+
+- If the entry explains WHY something is
+  true, giving reasoning a reader could
+  evaluate on its own merits, answer YES.
+- If the entry contains only a bare assertion
+  with no reasoning to independently evaluate,
+  answer NO.
+
+Reply: YES or NO, then a brief reason.
